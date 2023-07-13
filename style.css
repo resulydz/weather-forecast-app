@@ -120,6 +120,7 @@ form input[type="submit"]:hover {
 
     .container{
         min-width: 250px;
+        heigth: 100%;
     }
 
     #weather-data{
